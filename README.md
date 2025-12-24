@@ -7,7 +7,6 @@
 ---
 ### 🚀 快速進入網址
 ##### 學生端			： https://ray-irs-system.pages.dev/
-![學生進入QRcode](./student-qrcode.jpg)
 ##### 管理控制台	： https://ray-irs-system.pages.dev/admin.html
 ##### 大螢幕看板	： https://ray-irs-system.pages.dev/dashboard.html
 ---
