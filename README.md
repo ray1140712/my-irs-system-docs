@@ -17,21 +17,28 @@
 #####   發布題目	： 可輸入問題敘述及 A、B、C、D 四個選項（C 與 D 若留空，學生端將自動隱藏按鈕）。
 #####   發布即重置： 每次點擊「發布新題並清空紀錄」，系統會自動清除上一題的所有投票數據與作答資格。
 #####   名單監看	： 底部會顯示每個選項具體有哪些學號投了票，方便追蹤學生思維。
+<img width="689" height="830" alt="image" src="https://github.com/user-attachments/assets/d4bca598-ba47-426c-8d34-970faaf994fc" />
+
 ___   
 #### 2. 🖥️ 資訊面板 / 大螢幕看板 (dashboard.html)建議將此頁面投影到教室大螢幕，並按下 F11 進入全螢幕。
 #####   即時統計圖： 隨學生投票動態跳動的長條圖。
 #####   未作答紅名單： 系統會自動對比「已進入教室的學生總名單」與「已投票名單」，即時列出還沒投票的學號，可用於點名或催促。
 #####   答案揭曉： 當老師點擊結束時，正確選項會自動變色高亮。
+<img width="1829" height="889" alt="image" src="https://github.com/user-attachments/assets/aa559163-bcfd-4141-bff1-9af19ef6797b" />
+
 ___   
 #### 3. 📱 學生端 (index.html)學生使用手機掃描 QR Code 參與。
 #####   加入教室			： 進入需輸入學號/姓名，點擊進入後即完成「註冊」，會出現在看板的追蹤名單中。
 #####   投票機制			： 一人一票，投完後按鈕會鎖定。介面會顯示「您的選擇」以確認投票成功。
 #####   登出/更換學號	： 若學生填錯學號或多人共用裝置，點擊頂部紅色按鈕即可重置。(活動結束時也須登出)
+<img width="474" height="255" alt="image" src="https://github.com/user-attachments/assets/a360ab7e-9870-4907-a611-f5015a251805" />
+<img width="468" height="609" alt="image" src="https://github.com/user-attachments/assets/ac5f01e4-1fb9-4e67-9e3d-d8bdd864c8dd" />
+
 ---
 ### 📋 教學操作流程
 ---
 #### 第一步：準備階段
-##### 老師打開大螢幕 dashboard.ht	
+##### 老師打開大螢幕 dashboard.html	
 ##### 學生掃碼進入 index.html，輸入學號登入。
 ##### 此時大螢幕的「未作答名單」會陸續出現學生的名字。
 ---
